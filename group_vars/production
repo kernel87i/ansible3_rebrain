@@ -1,0 +1,7 @@
+---
+
+domain_name2       : site2.example.com
+root_directory2    : /usr/share/nginx/html/
+index2             : index.site2.html
+worker_processes   : 1
+worker_connections : 1024
