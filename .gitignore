@@ -3,7 +3,4 @@
 *.tfstate.backup
 *.tfvars
 .terraform
-/bin
-/pkg
-/src
 
